@@ -1,4 +1,4 @@
-# 3DuPy
+# 3DMP
 3D printer firmware based on micro python.
 
 
